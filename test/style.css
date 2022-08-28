@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+}
+.links {
+    background-color: darkcyan;
+    padding-left:1165.5px;
+    white-space:normal;
+    
+}
+a {
+    color: brown;
+}
+a:hover {
+    text-decoration:none;
+    background-color:seashell;
+    color: brown;
+}
+#head {
+    background-color: brown;
+    color:darkcyan;
+}
+#main {
+    background-color: thistle;
+    margin:70px 70px;
+    color: black;
+    margin-top:5px;
+    height:1000px;
+    border-radius:5px;
+    border: black dotted;
+    text-align: left;
+}
